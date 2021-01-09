@@ -1,6 +1,6 @@
 # FileServerCLI
 
-_A CLI for the [https://github.com/Luka5W/FileServer](FileServer) for administrative purposes_
+_A CLI for the [FileServer](https://github.com/Luka5W/FileServer) for administrative purposes_
 
 **This project is still work in progress!**
 
