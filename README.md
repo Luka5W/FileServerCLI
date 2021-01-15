@@ -4,6 +4,8 @@ _A CLI for the [FileServer](https://github.com/Luka5W/FileServer) for administra
 
 **This project is still work in progress!**
 
+**Paused**; I don't like to develop a CLI in IntelliJ because I can't use the InputStream to read user input from the built-in terminal. So... I'll do it tomorrow. Or so...
+
 ## About
 
 The program uses the http(s) protocol to interact with the server.
